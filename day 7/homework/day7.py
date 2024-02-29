@@ -1,12 +1,12 @@
 
 
 # N1
-for num in range(2, 11, 2):
+for num in range(0, 10, 2):
     print(num)
 
 # N2
 num = 1
-while num <= 20:
+while num < 20:
     print(num)
     num += 1
 
