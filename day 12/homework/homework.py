@@ -14,7 +14,7 @@ user_info.append(residence)
 print("1:", user_info[0:2])
 print("2:", user_info[1:3])
 print("3:", user_info[0:3])
-print("4:", user_info[1:4])
+print("4:", user_info[1:])
 
 # davaleba 2
 
@@ -25,7 +25,7 @@ negative_num = int(input("Enter a negative number: "))
 for i in range(negative_num, 0):
   nums.append(i)
 
-# print(nums)
+print(nums)
 
 # # davaleba 3
 
