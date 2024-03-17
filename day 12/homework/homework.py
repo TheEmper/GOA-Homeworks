@@ -54,7 +54,7 @@ print(movies[-3:])
 
 academy = input("What academy do you go to?: ")
 
-if academy[0] == "G":
+if academy[0] == "G" or academy[0] == "g":
   print("GOA is the correct choice.")
 else:
   print("Wrong choice.")
