@@ -11,10 +11,10 @@ user_info.append(last_name)
 user_info.append(age)
 user_info.append(residence)
 
-print("1:", user_info[0], user_info[1])
-print("2:", user_info[1], user_info[2])
-print("3:", user_info[0], user_info[1], user_info[2])
-print("4:", user_info[1], user_info[2], user_info[3])
+print("1:", user_info[0:2])
+print("2:", user_info[1:3])
+print("3:", user_info[0:3])
+print("4:", user_info[1:4])
 
 # davaleba 2
 
