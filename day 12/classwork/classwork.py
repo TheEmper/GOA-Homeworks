@@ -1,5 +1,5 @@
 # Basic List Slicing Syntax:
-
+# a
 # list_name[start:end:step]
 
 # list_name: The name of the list you want to slice.

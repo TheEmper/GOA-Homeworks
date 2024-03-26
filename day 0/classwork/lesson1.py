@@ -39,7 +39,7 @@ forward(140)
 end_fill()
 
 #end of the roof
-
+# a
 #step 3: door
 
 color("blue")
