@@ -84,7 +84,7 @@ print(initials)
 
 # 7
 
-family_members = ["John", "Jane", "Jack", "Jill"]
+family_members = ["Tea", "Goga", "Nugzari", "Saba"]
 
 
 combined_names = "-".join(family_members)
