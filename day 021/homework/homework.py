@@ -85,3 +85,4 @@ def solution(number):
             return 0
         
     return sum(multiples)
+
