@@ -21,3 +21,5 @@ def array_diff(a, b):
         if num not in b:
             result.append(num)
     return result
+
+    
